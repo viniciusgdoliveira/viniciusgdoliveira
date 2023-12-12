@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vinícius Guimarães de Oliveira @viniciusgdoliveira
 - 👀 I’m interested in Developing Software and learning everything about anything
-- 🌱 I’m currently learning how to be a full stack developer
+- 🌱 I’m currently developing a React Native APP
 - 💞️ I’m looking to collaborate on sustainable projects
 - 📫 You can reach me via viniciusgdoliveira@upperminds.com.br
 
