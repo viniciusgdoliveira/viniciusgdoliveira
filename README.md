@@ -2,7 +2,7 @@
 - 👀 I’m interested in Developing Software and learning everything about anything
 - 🌱 I’m currently developing a React Native APP
 - 💞️ I’m looking to collaborate on sustainable projects
-- 📫 You can reach me via viniciusgdoliveira@upperminds.com.br
+- 📫 You can reach me via viniciusgdoliveira@gmail.com
 
 <!---
 viniciusgdoliveira/viniciusgdoliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
