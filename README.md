@@ -1,30 +1,52 @@
-# 👋 Hi, I’m Vinícius Guimarães de Oliveira 
+# 👋 Hi, I’m Vinícius Guimarães de Oliveira
 
-I'm a passionate developer with a strong interest in software development and a desire to learn about a wide variety of subjects. I'm currently looking to collaborate on sustainable projects that make a positive impact. Below, you’ll find my current tech stack and how to get in touch!
+I’m a **Software Developer** passionate about building impactful applications and always seeking to expand my expertise. With experience in **web development**, **mobile app development**, and **data science**, I focus on creating robust, user-centered solutions using modern technologies.
 
 ---
 
-### 💻 Tech Stack
+### 🚀 Tech Stack
 
-#### Languages & Frameworks
-- **Typescript** | **Python** | **SQL** (MySQL, PostgreSQL) | **NoSQL** (Firestore, MongoDB)
-- **React** (Next.js) | **React Native** (Expo)
-- **Node.js** (Express)
+**Languages & Frameworks**  
+- **TypeScript** | **Python** | **SQL** (MySQL, PostgreSQL) | **NoSQL** (Firestore, MongoDB)
+- **React** (Next.js) | **React Native** (Expo) | **Node.js** (Express)
 
-#### Tools & Libraries
+**Tools & Libraries**  
 - **Firebase** (Authentication, Storage)
 - **Supabase** (Authentication)
 - **Matplotlib** | **Pandas** | **Scrapy**
 
 ---
 
-### 🌱 Interests
-I'm always eager to dive deeper into development, continuously explore new technologies, and learn everything I can about software development.
+### 🌱 About Me
+
+- 👀 **Interests**: Driven by a curiosity to learn, I dive into various technologies, with a particular focus on sustainable and impactful projects.
+- 💡 **Problem Solver**: I bring solutions to life by blending creativity and technical skills, striving for efficiency and innovation.
+- 📘 **Lifelong Learner**: I’m committed to continuous improvement, keeping up-to-date with industry trends and advancements.
 
 ---
 
-### 📫 Contact
-You can reach me via [viniciusgdoliveira@gmail.com](mailto:viniciusgdoliveira@gmail.com).
+### 💼 Featured Projects
+
+Here are a few projects that showcase my skillset:
+
+- **Trail-Making Test App**: Developed a medical testing app using **React Native**, **Expo**, and **SVG**, with Apple Pencil support for iPad.
+- **Web Scraping Tool**: Built a robust PDF downloader using **Python** to collect over 800 PDFs for data extraction and analysis.
+- **Next.js Web Application**: Created a web app with **Firebase Authentication**, **Firestore**, and **Storage** to support user login, CRUD operations, and image upload/download.
 
 ---
+
+### 💞️ Collaboration & Goals
+
+I'm interested in collaborating on **sustainable projects** that focus on social and environmental impact, and I’m always open to opportunities where I can contribute my skills to a meaningful cause.
+
+---
+
+### 📫 Get in Touch
+
+- **Email**: [viniciusgdoliveira@gmail.com](mailto:viniciusgdoliveira@gmail.com)
+- **LinkedIn**: [Vinícius Guimarães de Oliveira](https://www.linkedin.com/in/viniciusgdoliveira/)
+
+---
+
+
 
