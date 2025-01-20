@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Vinícius Guimarães de Oliveira
 
-I’m a **Software Developer** passionate about building impactful applications and always seeking to expand my expertise. With experience in **web development**, **mobile app development**, and **data science**, I focus on creating robust, user-centered solutions using modern technologies.
+I’m a **Software Engineer** passionate about building impactful applications and always seeking to expand my expertise. With experience in **web development**, **mobile app development**, and **data science**, I focus on creating robust, user-centered solutions using modern technologies.
 
 ---
 
