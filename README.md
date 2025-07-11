@@ -8,7 +8,7 @@ I’m a **Software Engineer** passionate about building impactful applications a
 
 **Languages & Frameworks**  
 - **TypeScript** | **Python** | **SQL** (MySQL, PostgreSQL) | **NoSQL** (Firestore, MongoDB)
-- **ReactJS** (Next.js) | **React Native** (Expo) | **Node.js** (Express)
+- **Hydrogen** (Shopify) | **ReactJS** (Next.js) | **React Native** (Expo) | **Node.js** (Express)
 
 **Tools & Libraries**  
 - **Firebase** (Authentication, Storage)
