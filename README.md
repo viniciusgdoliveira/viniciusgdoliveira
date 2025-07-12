@@ -20,7 +20,7 @@ I’m a **Software Engineer** passionate about building impactful applications a
 
 ### 🌱 About Me
 
-- 🛍️ **Shopify Specialist**: I'm one of the first developers in Brazil to adopt and build production-grade stores using **Hydrogen**. My Hydrogen work combines performance, design, and usability—always focused on conversion.
+- 🛍️ **Shopify Specialist**: I'm one of the first developers in Brazil to adopt and build production-grade stores using **Hydrogen**. My Hydrogen work combines performance, design, and usability—always focused on UX and conversion.
 - 💼 **Custom Shopify Sections**: I craft **native Shopify Liquid sections** fully integrated with the Theme Customizer—no third-party dependencies required.
 - 📈 **Conversion-Oriented**: I optimize **performance**, **UI/UX**, and **user flows** to improve sales and overall storefront experience.
 - 👀 **Interests**: Driven by a curiosity to learn, I dive into various technologies, with a particular focus on sustainable and impactful projects.
