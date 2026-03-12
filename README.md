@@ -45,7 +45,7 @@ I’m a **Software Engineer** passionate about building impactful applications a
 A **sophisticated, multilingual portfolio website** built with **Next.js 15**, featuring **Liquid Glass design aesthetics**, an **AI-powered chat assistant**, and **internationalization** across 4 languages.  
 It demonstrates cutting-edge development practices with a focus on **performance**, **accessibility**, and **user experience**.
 
-### 🛒 [Mush Company](https://mush.company)  
+### 🛒 Mush Company
 Hydrogen-powered Shopify storefront built from scratch, prioritizing **performance, usability, and immersive design**.  
 
 ### 📱 Trail-Making Test App  
