@@ -1,65 +1,129 @@
-# 👋 Hi, I’m Vinícius Guimarães de Oliveira
+# 👋 Hi, I'm Vinícius Guimarães de Oliveira
 
-I’m a **Software Engineer** passionate about building impactful applications and always seeking to expand my expertise. My background spans **web development**, **mobile app development**, and **data science**, with a strong focus on performance, scalability, and user-centered solutions.
+Software Engineer and founder passionate about building products that combine technology, data, and exceptional user experiences.
+
+I'm currently building **MencionAI**, a platform helping brands understand and improve their visibility across AI-powered search experiences. My work focuses on turning complex technical challenges into scalable, user-centric products, with experience spanning full-stack development, Shopify commerce, mobile applications, and automation systems.
+
+I enjoy building things from scratch, shipping fast, and continuously learning.
 
 ---
 
 ## 🚀 Tech Stack
 
 ### Languages
-- **TypeScript**
-- **Python**
-- **SQL** (MySQL, PostgreSQL)
-- **NoSQL** (Firestore, MongoDB)
 
-### Frameworks & Platforms
-- **ReactJS** (Next.js)  
-- **React Native** (Expo)  
-- **Hydrogen** (Shopify)  
-- **Node.js** (Express)  
-- **Shopify Liquid** (native development with Theme Editor support)
+* TypeScript
+* Python
+* SQL (PostgreSQL, MySQL)
+* NoSQL (Firestore, MongoDB)
 
-### Tools & Services
-- **Firebase** (Authentication, Firestore, Storage)  
-- **Supabase** (Authentication, Database, Storage)  
+### Frontend
 
-### Data Science & Automation
-- **Pandas**
-- **Matplotlib**
-- **Scrapy**
+* React
+* Next.js
+* React Native
+* Expo
+* Shopify Hydrogen
+* Shopify Liquid
+
+### Backend
+
+* Node.js
+* Express
+* Supabase
+* Firebase
+
+### Data & Automation
+
+* Pandas
+* Matplotlib
+* Scrapy
 
 ---
 
-## 🌱 About Me
+## 🌱 What I Do
 
-- 🛍️ **Shopify Specialist**: Among the first in Brazil to deliver production-grade stores using **Hydrogen**, blending performance, design, and UX for conversion-focused storefronts.  
-- 📈 **Conversion-Oriented**: Dedicated to optimizing performance, UI/UX, and user flows to maximize engagement and sales.  
-- 💡 **Problem Solver**: I combine creativity and technical expertise to build efficient, innovative solutions.  
-- 📘 **Lifelong Learner**: Always curious and committed to continuous improvement, staying current with industry trends and technologies.  
+* 🚀 **Building Products**
+  From idea to production, I enjoy designing and developing software that solves real problems.
+
+* 🤖 **AI & Automation**
+  Creating systems that leverage AI, data, and automation to deliver meaningful insights and streamline workflows.
+
+* 🛍️ **Modern Commerce**
+  Building high-performance Shopify experiences with a strong focus on conversion, usability, and speed.
+
+* ⚡ **Full-Stack Engineering**
+  Developing scalable applications with clean architecture and maintainable code.
+
+* 📈 **Performance & User Experience**
+  Obsessed with creating products that are fast, intuitive, and enjoyable to use.
 
 ---
 
 ## 💼 Featured Projects
 
-### 🌐 [Portfolio - Vinícius Guimarães de Oliveira](https://viniciusgdoliveira.dev)
-A **sophisticated, multilingual portfolio website** built with **Next.js 15**, featuring **Liquid Glass design aesthetics**, an **AI-powered chat assistant**, and **internationalization** across 4 languages.  
-It demonstrates cutting-edge development practices with a focus on **performance**, **accessibility**, and **user experience**.
+### 🚀 MencionAI
 
-### 🛒 Mush Company
-Hydrogen-powered Shopify storefront built from scratch, prioritizing **performance, usability, and immersive design**.  
+**Founder • Next.js • Supabase • AI Search Visibility**
 
-### 📱 Trail-Making Test App  
-A medical testing app developed with **React Native**, **Expo**, and **SVG**, including Apple Pencil support for iPad.  
+Selected for the ACATE Jornada Startups 2026 acceleration program.
 
-### 📄 Web Scraping Tool  
-Python-based automation that collected **800+ PDFs** for structured data extraction and analysis.  
+MencionAI helps companies monitor brand mentions, citations, and competitors across generative AI systems, enabling businesses to understand and improve their presence in the emerging AI search landscape.
 
-### 🌐 Next.js Web Application  
-Full-stack app using **Firebase Authentication**, **Firestore**, and **Storage** with user login, CRUD operations, and image upload/download.  
+Built from the ground up with a focus on delivering actionable insights and making AI visibility accessible to businesses.
+
+🔗 **Website:** https://mencionai.com.br
 
 ---
 
-## 📫 Get in Touch
+### 🌐 Portfolio Website
 
-- 📧 **Email**: [viniciusgdoliveira@gmail.com](mailto:viniciusgdoliveira@gmail.com)  
-- 💼 **LinkedIn**: [Vinícius Guimarães de Oliveira](https://www.linkedin.com/in/viniciusgdoliveira/)  
+**Next.js 15 • TypeScript • AI Integration**
+
+A multilingual portfolio featuring an AI-powered assistant and support for four languages, designed with a strong emphasis on performance, accessibility, and user experience.
+
+🔗 **Website:** https://viniciusgdoliveira.dev
+
+---
+
+### 🛒 Mush Company
+
+**Shopify Hydrogen**
+
+Custom storefront built from scratch, prioritizing speed, immersive design, and conversion optimization.
+
+---
+
+### 📱 Trail-Making Test App
+
+**React Native • Expo • SVG**
+
+Medical assessment application developed for iPad, including Apple Pencil support and precise touch interactions.
+
+---
+
+### 📄 Web Scraping & Data Extraction Tool
+
+**Python • Scrapy**
+
+Automation system that collected and processed 800+ PDFs for structured analysis and data extraction.
+
+---
+
+### 🌐 Full-Stack Web Application
+
+**Next.js • Firebase**
+
+Application featuring authentication, database integration, file storage, and complete CRUD functionality.
+
+---
+
+## 📫 Connect With Me
+
+* 🌐 **Website:** https://viniciusgdoliveira.dev
+* 💼 **LinkedIn:** https://linkedin.com/in/viniciusgdoliveira
+* 📧 **Email:** [viniciusgdoliveira@gmail.com](mailto:viniciusgdoliveira@gmail.com)
+
+---
+
+> *Building products at the intersection of AI, software, and user experience.*
